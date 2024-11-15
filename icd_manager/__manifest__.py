@@ -6,7 +6,7 @@
     'summary': 'Allows to browse all available diseases from ICD10 and their codes.'
                ' (ICD10 | International Classification of Diseases | Medical Pathology | ICD)',
     'description': 'Allows to browse all available diseases from ICD10 and their codes.',
-    'version': '17.0.1.0',
+    'version': '18.0.1.0',
     'category': 'Medical',
     'author': 'Visionee',
     'license': 'OPL-1',
