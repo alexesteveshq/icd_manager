@@ -14,6 +14,9 @@
     'depends': [
         'base',
     ],
+    'images': [
+        'static/description/banner.png',
+    ],
     'data': [
         'views/medical_disease_views.xml',
         'security/ir.model.access.csv'
