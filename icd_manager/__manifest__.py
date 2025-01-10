@@ -21,9 +21,8 @@
         'views/medical_disease_views.xml',
         'security/ir.model.access.csv'
     ],
-    'price': 60,
+    'price': 50,
     'currency': "EUR",
-    'license': 'AGPL-3',
     'post_init_hook': 'post_init_hook',
     'installable': True,
     'auto_install': False,
