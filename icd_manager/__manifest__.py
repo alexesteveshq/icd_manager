@@ -2,7 +2,7 @@
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
 
 {
-    'name': 'Medical Pathologies ICD10',
+    'name': 'International Classification of Diseases ICD10',
     'summary': 'Allows to browse all available diseases from ICD10 and their codes.'
                ' (ICD10 | International Classification of Diseases | Medical Pathology | ICD)',
     'description': 'Allows to browse all available diseases from ICD10 and their codes.',
