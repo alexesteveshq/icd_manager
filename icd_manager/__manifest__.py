@@ -21,7 +21,7 @@
         'views/medical_disease_views.xml',
         'security/ir.model.access.csv'
     ],
-    'price': 50,
+    'price': 60,
     'currency': "EUR",
     'post_init_hook': 'post_init_hook',
     'installable': True,
